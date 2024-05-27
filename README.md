@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
 
-1. [Tag 1 Aufgaben](#tag-1-aufgaben)
+1. [Tag 2 Aufgaben](#tag-2-aufgaben)
    1. [Aufgabe 1: Baumstrukturen in der IT und Unterschiede zwischen binären und nicht-binären Bäumen](#aufgabe-1-baumstrukturen-in-der-it-und-unterschiede-zwischen-binären-und-nicht-binären-bäumen)
    2. [Aufgabe 2: Huffman-Algorithmus](#aufgabe-2-huffman-algorithmus)
    3. [Aufgabe 3: RLC für Farbbilder](#aufgabe-3-rlc-für-farbbilder)
@@ -11,7 +11,7 @@
    6. [Aufgabe 6: BWT-Verfahren](#aufgabe-6-bwt-verfahren)
    7. [Aufgabe 7: ZIP-Komprimierung](#aufgabe-7-zip-komprimierung)
    8. [Aufgabe 8: Verlustlose Komprimierung](#aufgabe-8-verlustlose-komprimierung)
-2. [Tag 2 Aufgaben](#tag-2-aufgaben)
+2. [Tag 1 Aufgaben](#tag-1-aufgaben)
    1. [Umwandlungstabellen und Binärrechnung](#umwandlungstabellen-und-binärrechnung)
       1. [Aufgabe 1: Umwandlungstabellen](#aufgabe-1-umwandlungstabellen)
       2. [Aufgabe 2: Umwandlung von Dezimal in Binär](#aufgabe-2-umwandlung-von-dezimal-in-binär)
@@ -19,7 +19,7 @@
       4. [Aufgabe 4: Umwandlung von Binär in Hexadezimal](#aufgabe-4-umwandlung-von-binär-in-hexadezimal)
       5. [Aufgabe 5: Addition von binären Zahlen](#aufgabe-5-addition-von-binären-zahlen)
 
-## Tag 1 Aufgaben
+## Tag 2 Aufgaben
 
 ### Aufgabe 1: Baumstrukturen in der IT und Unterschiede zwischen binären und nicht-binären Bäumen
 
@@ -178,7 +178,7 @@ e. **JPG-Bilder zippen und vergleichen:**
 - **Daten:** Textdateien, Programmcode, Bilder (PNG), Audio (FLAC).
 - **Verlustbehaftete Komprimierung:** Ein Brief oder Java-Sourcecode würde durch Verlustbehaftung unbrauchbar, da die exakte Information nicht erhalten bleibt.
 
-## Tag 2 Aufgaben
+## Tag 1 Aufgaben
 
 ### Umwandlungstabellen und Binärrechnung
 
